@@ -1,0 +1,6 @@
+stm32f4xx_ll_gpio.h:882:22:LL_GPIO_SetOutputPin	16	static
+stm32f4xx_ll_gpio.h:911:22:LL_GPIO_ResetOutputPin	16	static
+freertos.c:81:6:vApplicationGetIdleTaskMemory	24	static
+freertos.c:95:6:MX_FREERTOS_Init	96	static
+freertos.c:148:6:cmd_task	80	static
+freertos.c:226:6:ctrl_task	32	static

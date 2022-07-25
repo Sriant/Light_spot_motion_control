@@ -1,0 +1,8 @@
+stm32f4xx_ll_gpio.h:882:22:LL_GPIO_SetOutputPin	16	static
+stm32f4xx_ll_gpio.h:911:22:LL_GPIO_ResetOutputPin	16	static
+stepper_ctrl.c:15:6:turn_coordinate	56	static
+stepper_ctrl.c:47:6:drawline	48	static
+stepper_ctrl.c:84:6:drawcircle	72	static
+stepper_ctrl.c:139:6:calibration	16	static
+stepper_ctrl.c:157:6:stepper_x_run	32	static
+stepper_ctrl.c:183:6:stepper_y_run	32	static
